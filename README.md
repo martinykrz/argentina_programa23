@@ -3,4 +3,4 @@ Cursos de Argentina Programa 2023
 
 ## TODO
 ### Java
-* Clase 1: Arreglar bug del Scanner
+* Clase 3
